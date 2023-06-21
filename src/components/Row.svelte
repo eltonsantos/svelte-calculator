@@ -1,9 +1,9 @@
 <div class="row">
-    <slot />
+  <slot />
 </div>
 
 <style>
-    .row {
-        display: flex;
-    }
-</style> 
+  .row {
+    display: flex;
+  }
+</style>
